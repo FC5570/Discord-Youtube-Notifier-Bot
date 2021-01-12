@@ -33,8 +33,8 @@ e) **token** is the Discord Bot Token, which you can find at Discord Developer P
 
 
 ## Dependencies Used:
-1) quickmongo, version 3.0.0 
-2) rss-parser, version 3.10.0
-3) discord.js, version 12.5.0
+1) [quickmongo](https://www.npmjs.com/package/quickmongo), version 3.0.0 
+2) [rss-parser](https://www.npmjs.com/package/rss-parser), version 3.10.0
+3) [discord.js](https://www.npmjs.com/package/discord.js), version 12.5.0
 
 ### Feel Free to DM me on Discord: FC#5570, if you have any issues while setting up the bot.
