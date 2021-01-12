@@ -22,9 +22,13 @@
 }
 ```
 a) **mongoURI** is the MongoDB cluster's uri which would be used to save the posted videos to.
+
 b) **YTCH** is an array of Youtube Channel IDs of the channels you want to get notifications of. YouTube Channel ID would be the text after https://youtube.com/channel/text here. If you still can't figure out how to get your youtube channel ID, follow this tutorial: https://support.google.com/youtube/answer/3250431?hl=en
+
 c) **DiscordChannelID** is the Channel ID of your Discord Server to post notifications to.
+
 d) **DiscordRoleID** is the **ID** of the role you want to ping when a new video is uploaded
+
 e) **token** is the Discord Bot Token, which you can find at Discord Developer Portal in the bot section of your app.
 
 
