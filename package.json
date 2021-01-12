@@ -1,0 +1,15 @@
+{
+  "name": "Discord-Youtube-Notifier-Bot",
+  "version": "1.0.0",
+  "description": "A Discord Bot which notifies your Discord Server when a new video is uploaded on the channels mentioned.",
+  "main": "src/index.js",
+  "repository": "https://github.com/FC5570/Discord-Youtube-Notifier-Bot",
+  "author": "FC5570",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "quickmongo": "^3.0.0",
+    "rss-parser": "^3.10.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "mongoURI": "your mongodb database uri to connect to it.",
+    "YTCH": ["your youtube channel ids in the following order: ", "channel 1", "channel 2 and so on"],
+    "DiscordChannelID": "your discord channel id to post notifications to.",
+    "DiscordRoleID": "your Discord Server's Role ID to mention about the notification",
+    "token": "your discord bot token"
+}
