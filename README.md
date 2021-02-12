@@ -37,4 +37,4 @@ e) **token** is the Discord Bot Token, which you can find at Discord Developer P
 2) [rss-parser](https://www.npmjs.com/package/rss-parser), version 3.10.0
 3) [discord.js](https://www.npmjs.com/package/discord.js), version 12.5.0
 
-### Feel Free to DM me on Discord: FC#5570, if you have any issues while setting up the bot.
+### Feel Free to DM me on Discord: FC#5104, if you have any issues while setting up the bot.
